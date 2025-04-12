@@ -9,3 +9,4 @@ function unDo() {
 	imageDiv.style.backgroundImage = "url('')";
 	imageDiv.innerHTML = "Hover over an image below to display here.";
 }
+// I can not sign up a new Codepen account. so please just read js file here.
